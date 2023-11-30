@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Kanwar Abhijit Singh has built the Dear Diary app as a Free app. This Service is provided by Kanwar Abhijit Singh at no cost and is intended for use as is.
+Team Dear Diary has built the Dear Diary app as a Free app. This Service is provided by Team Dear Diary at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -30,15 +30,15 @@ I may update this Privacy Policy from time to time. Thus, you are advised to rev
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. 
 
-You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Kanwar Abhijit Singh.
+You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Team Dear Diary.
 
-Kanwar Abhijit Singh is committed to ensuring that the app is as useful and efficient as possible. For that reason, I reserve the right to make changes to the app or to charge for its services, at any time and for any reason. I will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Team Dear Diary is committed to ensuring that the app is as useful and efficient as possible. For that reason, I reserve the right to make changes to the app or to charge for its services, at any time and for any reason. I will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-Kanwar Abhijit Singh cannot always take responsibility for the way you use the app i.e. you need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Kanwar Abhijit Singh cannot accept responsibility.
+Team Dear Diary cannot always take responsibility for the way you use the app i.e. you need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Team Dear Diary cannot accept responsibility.
 
 With respect to my responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that I endeavor to ensure that it is updated and correct at all times.
 
-At some point, I may wish to update the app. The app is currently available on iOS – the requirements for the system (and for any additional systems I decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Kanwar Abhijit Singh does not promise that he will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you. 
+At some point, I may wish to update the app. The app is currently available on iOS – the requirements for the system (and for any additional systems I decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Team Dear Diary does not promise that he will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you. 
 
 I may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless I tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
